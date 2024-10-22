@@ -1,0 +1,15 @@
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\bin\Debug\net8.0\Empleados.exe
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\bin\Debug\net8.0\Empleados.deps.json
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\bin\Debug\net8.0\Empleados.runtimeconfig.json
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\bin\Debug\net8.0\Empleados.dll
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\bin\Debug\net8.0\Empleados.pdb
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.AssemblyInfoInputs.cache
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.AssemblyInfo.cs
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.sourcelink.json
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.dll
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\obj\Debug\net8.0\refint\Empleados.dll
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.pdb
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\obj\Debug\net8.0\Empleados.genruntimeconfig.cache
+C:\Users\dorsettimartinez\source\repos\Empleados\Empleados\obj\Debug\net8.0\ref\Empleados.dll

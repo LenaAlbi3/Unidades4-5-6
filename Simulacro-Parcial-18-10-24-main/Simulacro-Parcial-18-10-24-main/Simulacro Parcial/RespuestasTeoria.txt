@@ -1,0 +1,19 @@
+Problema 1: 
+A. No, porque como los miembros no se inscriben a las clases, no hace falta guardarlo
+B. No, porque miembro no tiene un atributo que se pueda usar como key, ya que el nombre se puede repetir
+
+Problema 2: 
+A. No, porque es la única clase que existe 
+B. No, porque no hay datos de los dueños que guardar
+
+Problema 3: 
+A. No, porque no va a cambiar nada si elegis una u otra (por ejemplo el precio), solamente el nombre del tipo de cancha
+B. No, porque se debe usar una coleccion tipo cola. Como que son reservas, el primero que llega tiene que ser el primer atendido
+
+Problema 4: 
+A. No, es mejor usar una lista
+B. Si, porque si no cada vez que inicias el sistema se pierden los datos de los libros que pueden ser prestados
+
+Bonus:
+La diferencia entre clase abstracta y una interfaz es que la clase que hereda la interfaz tiene que implementar todo lo que 
+contiene mientras que en la clase abstracta podes no implementar todo
